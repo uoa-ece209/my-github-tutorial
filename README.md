@@ -36,7 +36,7 @@ Within your project, you may choose to use:
 	> **Warning**  
 	> It is very important that `Include all branches` is selected!
 5. Click `Create repository from template`.
-6. Complete the tasks laid out in the [Wiki](../../wiki).
+6. Complete the tasks laid out in the [Wiki](https://github.com/uoa-ece209/my-github-tutorial/wiki).
 
 ## ❔ Extra Help
 
