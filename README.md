@@ -18,12 +18,12 @@ This template repository is now provided for you to practice using GitHub's proj
 This repository will also walk you through some more examples of branching and conflict resolution.
 
 Within your project, you may choose to use:  
-| GitHub Feature | Potential Application                                                                                         |
-| -------------- | ------------------------------------------------------------------------------------------------------------- |
-| Projects       | To get a big-picture view of all the tasks within your project, and their statuses.                           |
-| Issues         | To track each individual project task.                                                                        |
+| GitHub Feature | Potential Application                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Projects       | To get a big-picture view of all the tasks within your project, and their statuses.                                          |
+| Issues         | To track each individual project task.                                                                                       |
 | Wikis          | To store your team contract, meeting agendas/minutes, team logbooks, theoretical calculations, technical documentation, etc. |
-| Pull Requests  | To review new changes as a team before they are merged into `main`.                                           |
+| Pull Requests  | To review new changes as a team before they are merged into `main`.                                                          |
 > **Note**  
 > You are not limited to just these.
 
@@ -36,7 +36,7 @@ Within your project, you may choose to use:
 	> **Warning**  
 	> It is very important that `Include all branches` is selected!
 5. Click `Create repository from template`.
-6. Complete the tasks laid out in the [Wiki](./wiki).
+6. Complete the tasks laid out in the [Wiki](../../wiki).
 
 ## ❔ Extra Help
 
